@@ -13,7 +13,7 @@ namespace HttpRestClient
 		{
 			InitializeComponent();
 
-			MainPage = new HttpRestClient.MainPage();
+			MainPage = new HttpRestClient.WebApiList();
 		}
 
 		protected override void OnStart ()
